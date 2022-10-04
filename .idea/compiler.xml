@@ -10,5 +10,8 @@
         <module name="space_modeling" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="WorldModel" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
