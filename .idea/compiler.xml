@@ -12,6 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="WorldModel" target="11" />
+      <module name="wpsMain" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
